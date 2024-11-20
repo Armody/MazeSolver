@@ -4,8 +4,8 @@ from Maze import *
 def main():
     size_x = 800
     size_y = 600
-    num_cols = 10
-    num_rows = 8
+    num_cols = 20
+    num_rows = 16
     margin = 50
     cell_size_x = (size_x - margin * 2) / num_cols
     cell_size_y = (size_y - margin * 2) / num_rows
